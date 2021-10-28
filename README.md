@@ -1,2 +1,2 @@
-# Algorithm
+# Algorithm Study
 language : Python
